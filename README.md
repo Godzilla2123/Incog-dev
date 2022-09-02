@@ -9,7 +9,7 @@
  
 <a href="" alt="Made with NodeJS"><img src="https://img.shields.io/badge/Made%20with-Node.JS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a> 
 <a href="https://github.com/Lixalidy/Incognito/issues/" alt="GitHub issues"><img src="https://img.shields.io/github/issues/Lixalidy/Incognito?style=for-the-badge"></a>
-<a href="https://github.com/Lixalidy/Incognito/graphs/contributors/" alt=""><img src="https://img.shields.io/github/contributors/Lixalidy/Incognito?style=for-the-badge"></a>
+<a href="https://github.com/Lixalidy/Incognito/graphs/contributors/" alt=""><img src="https://img.shields.io/github/contributors/Lixalidy/Incog-dev?style=for-the-badge"></a>
 
 </div>
 
